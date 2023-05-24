@@ -1,1 +1,2 @@
 # TicTacToe-Using-Alpha-Beta-Pruning
+<p>Alpha-beta pruning is an optimization algorithm for Tic Tac Toe. It reduces search effort by eliminating inferior branches. Using alpha (lower bound) and beta (upper bound), it updates values during search. If a better move is found, alpha is updated. If a worse move is found, beta is updated. This optimizes decision-making, making the algorithm more efficient in finding the best move for Tic Tac Toe.</p>
